@@ -95,7 +95,7 @@ This will create the superadmin login that will be used in your web browser.
 
 |
 
-Install Finished  **Login with the username and password you choose during the install**
+Install Finished  **Login with the username and password you choose during the install**  (Note: login with username@domain might be required)
      
      
 .. image:: ../_static/images/ilogin.jpg
